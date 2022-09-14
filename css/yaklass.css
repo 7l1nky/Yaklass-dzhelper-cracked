@@ -1,0 +1,3 @@
+.taskhtmlwrapper::before {
+    display: none !important;
+}
