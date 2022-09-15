@@ -1,16 +1,16 @@
 # Yaklass-pasta-dzhelper
 Showing ansewers in Yaklass.ru
 
-1. Создать папку и поместить туда скачанные файлы выше. (скачать все, кроме README.md, LICENCE, .gitattributes)
-2. Следуйте инструкциям для вашего браузера:
-   + [Инструкция для хрома](#chrome)
+1. Create a folder and place the downloaded files above there. (download everything except README.md, LICENCE, .gitattributes)
+2. Follow the instructions for your browser:
+   + [instructions for chrome](#chrome)
 
 
 
 <a name="chrome"></a>
-# Для хрома
-1) Откройте Chrome на компьютере.
-2) В правом верхнем углу окна нажмите на значок "Настройка и управление Google Chrome" Ещё > Дополнительные инструменты > Расширения.
-3) Включите режим разработчика
-4) Нажмите на появившеюся кнопку "Загрузить распакованное расширение"
-5) Выберите папку со скачанными файлами.
+# For chrome
+1) Open Chrome on your computer.
+2) Click on the icon "Customize and manage Google Chrome" More > More tools > Extensions.
+3) Enable developer mode
+4) Click on the permanent option "Load unpacked extension"
+5) Select the folder with downloaded files.
