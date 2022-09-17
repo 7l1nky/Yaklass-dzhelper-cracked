@@ -12,5 +12,5 @@ Showing ansewers in Yaklass.ru
 1) Open Chrome on your computer.
 2) Click on the icon "Customize and manage Google Chrome" More > More tools > Extensions.
 3) Enable developer mode
-4) Click on the permanent option "Load unpacked extension"
+4) Click on the permanent option "Load unpacked extension" or drag it on extension page.
 5) Select the folder with downloaded files.
