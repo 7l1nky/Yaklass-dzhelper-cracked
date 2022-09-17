@@ -1,7 +1,7 @@
 # Yaklass-pasta-dzhelper
 Showing ansewers in Yaklass.ru
 
-1. Create a folder and place the downloaded zip installation [folder](https://github.com/7l1nky/Yaklass-pasta-dzhelper/releases/tag/v1.0.0). 
+1. Create a folder and place the downloaded zip installation [folder](https://github.com/7l1nky/Yaklass-pasta-dzhelper/releases/download/v1.0.0/Yaklass-pasta-dzhelper.zip). 
 2. Follow the instructions for your browser:
    + [instructions for chrome](#chrome)
 
