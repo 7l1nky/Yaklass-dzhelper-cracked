@@ -1,4 +1,4 @@
-# Yaklass-pasta-dzhelper
+# Yaklass-dzhelper-cracked
 Showing ansewers in Yaklass.ru
 
 1. Create a folder and place the downloaded zip installation [folder](https://github.com/7l1nky/Yaklass-pasta-dzhelper/releases/download/v1.0.0/Yaklass-pasta-dzhelper.zip) then unzip it on desktop. 
